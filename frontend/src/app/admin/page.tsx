@@ -1,0 +1,1 @@
+export default function AdminPage(){return <main style={{padding:24}}><h2>Admin Dashboard</h2><ul><li>Manage Courses/Notes/Faculty</li><li>Students & payment tracking</li><li>Analytics widgets</li></ul></main>}
