@@ -1,0 +1,1 @@
+export default function FacultyPage(){return <main style={{padding:24}}><h2>Faculty Panel</h2><ul><li>Upload PDF/Video notes</li><li>Create MCQ quizzes with timer</li><li>AI question and notes generator</li></ul></main>}

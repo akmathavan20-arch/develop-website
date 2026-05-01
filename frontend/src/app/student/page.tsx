@@ -1,0 +1,1 @@
+export default function StudentPage(){return <main style={{padding:24}}><h2>Student Dashboard</h2><ul><li>Enrolled courses + notes</li><li>Attend timed quizzes</li><li>AI doubt bot (Tamil/English) and progress charts</li></ul></main>}
